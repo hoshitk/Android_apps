@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SlideShow</string>
+    <string name="prevButton">＜</string>
+    <string name="nextButton">＞</string>
+    <string name="slideshow">スライドショー</string>
 </resources>
